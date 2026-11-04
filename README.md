@@ -42,6 +42,8 @@
 
 Visit the [official Netflix page](https://www.netflix.com) for more info.
 
+- https://dnm.nflximg.net/api/v6/_YyUT33Ze3kFXjMydIZFIm6ajHk/AAAABSi70tbKBjEPby3DyxIYxBTq-l-VbYVNhQpMeP1kPLqv1iE63LfsyTVhsiaJCqmpQinAc7Pi95aLqcwbW1zKVEZ-CaFClml-A7nU.jpg?r=94b
+
 Here is a code example: `git commit -m "Add info about favorite series"`
 
 
